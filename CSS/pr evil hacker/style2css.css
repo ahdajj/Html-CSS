@@ -1,0 +1,37 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color: gray;
+    width: 950px;
+    margin: 0px auto;
+}
+.boxtop {
+    background-color: blue;
+  height: 150px;
+}
+.boxl {
+    float: left;
+    background-color: red;
+    height: 300px;
+    width: 180px;
+}
+.boxr {
+    float: left;
+    background-color: yellow;
+    height: 360px;
+    width: 725px;
+}
+.box1, .box2, .box3 {
+    float: left;
+    height: 200px;
+    width: 217px;
+    background-color: purple;
+}
+.boxb {
+    float: left;
+    height: 90px;
+    width: 690px;
+    background-color: pink;
+}
