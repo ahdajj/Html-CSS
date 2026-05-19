@@ -1,0 +1,37 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color: gray;
+    width: 950px;
+    margin: auto;
+}
+.boxtop {
+    background-color: blue;
+    height: 150px;
+}
+.boxl {
+    background-color: red;
+    height: 300px;
+    width: 180px ;
+    display: inline-block;
+}
+.boxr {
+    background-color: yellow;
+    height: 360px;
+    width: 725px;
+    display: inline-block;
+}
+.box1, .box2, .box3 {
+    display:inline-block;
+    height: 200px;
+    width: 30%;
+    background-color: purple;
+}
+.boxb {
+    height: 90px;
+    width: 690px;
+    background-color: pink;
+
+}
